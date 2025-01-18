@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <question id="1">
+        <text>What is jQuery?</text>
+        <options>
+            <option>A programming language</option>
+            <option>A JavaScript library</option>
+            <option>A database</option>
+            <option>A web server</option>
+        </options>
+        <correct>1</correct>
+    </question>
+    <question id="2">
+        <text>Which method is used to send an AJAX POST request in jQuery?</text>
+        <options>
+            <option>jQuery.post()</option>
+            <option>jQuery.ajax()</option>
+            <option>Both A and B</option>
+            <option>None of the above</option>
+        </options>
+        <correct>2</correct>
+    </question>
+    <question id="3">
+        <text>What does AJAX stand for?</text>
+        <options>
+            <option>Asynchronous JavaScript and XML</option>
+            <option>Advanced JavaScript and XHTML</option>
+            <option>Asynchronous JavaScript and XHTML</option>
+            <option>Advanced JavaScript and XML</option>
+        </options>
+        <correct>0</correct>
+    </question>
+</quiz>
