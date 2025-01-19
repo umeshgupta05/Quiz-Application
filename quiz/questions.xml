@@ -30,4 +30,74 @@
         </options>
         <correct>0</correct>
     </question>
+    <question id="4">
+        <text>Which data structure uses the LIFO principle?</text>
+        <options>
+            <option>Queue</option>
+            <option>Stack</option>
+            <option>Array</option>
+            <option>Heap</option>
+        </options>
+        <correct>1</correct>
+    </question>
+    <question id="5">
+        <text>What is the time complexity of searching in a balanced binary search tree?</text>
+        <options>
+            <option>O(1)</option>
+            <option>O(log n)</option>
+            <option>O(n)</option>
+            <option>O(n log n)</option>
+        </options>
+        <correct>1</correct>
+    </question>
+    <question id="6">
+        <text>Which protocol is used to send emails?</text>
+        <options>
+            <option>FTP</option>
+            <option>SMTP</option>
+            <option>HTTP</option>
+            <option>POP3</option>
+        </options>
+        <correct>1</correct>
+    </question>
+    <question id="7">
+        <text>What does SQL stand for?</text>
+        <options>
+            <option>Structured Query Language</option>
+            <option>Standard Query Language</option>
+            <option>Sequential Query Language</option>
+            <option>System Query Language</option>
+        </options>
+        <correct>0</correct>
+    </question>
+    <question id="8">
+        <text>Which of the following is not a NoSQL database?</text>
+        <options>
+            <option>MongoDB</option>
+            <option>MySQL</option>
+            <option>Cassandra</option>
+            <option>Redis</option>
+        </options>
+        <correct>1</correct>
+    </question>
+    <question id="9">
+        <text>What does the OSI model stand for?</text>
+        <options>
+            <option>Open Systems Integration</option>
+            <option>Open Systems Interconnection</option>
+            <option>Open Software Integration</option>
+            <option>Operational Systems Interconnection</option>
+        </options>
+        <correct>1</correct>
+    </question>
+    <question id="10">
+        <text>Which layer in the OSI model handles routing?</text>
+        <options>
+            <option>Data Link Layer</option>
+            <option>Network Layer</option>
+            <option>Transport Layer</option>
+            <option>Session Layer</option>
+        </options>
+        <correct>1</correct>
+    </question>
 </quiz>
